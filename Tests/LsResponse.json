@@ -1,0 +1,18 @@
+﻿{
+  "Arguments": { "QmQzDkUtFPRH7es2hUM5KPWVm3sHd1N8KMeUbX6xvBaXjM": "QmQzDkUtFPRH7es2hUM5KPWVm3sHd1N8KMeUbX6xvBaXjM" },
+  "Objects": {
+    "QmQzDkUtFPRH7es2hUM5KPWVm3sHd1N8KMeUbX6xvBaXjM": {
+      "Hash": "QmQzDkUtFPRH7es2hUM5KPWVm3sHd1N8KMeUbX6xvBaXjM",
+      "Size": 0,
+      "Type": "Directory",
+      "Links": [
+        {
+          "Name": "TextFile21.txt",
+          "Hash": "QmSf62iURYW2DX4NGByUtEJnk24tEKLT4yFFdjnDEgjG8E",
+          "Size": 14,
+          "Type": "File"
+        }
+      ]
+    }
+  }
+}
